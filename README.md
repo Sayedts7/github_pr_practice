@@ -1,1 +1,1 @@
-# github_pr_practice
+# github_pr_practice project
